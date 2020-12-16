@@ -11,7 +11,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: About RaceData
   feature_item:
   - name: Clean Code
     icon: ti-pulse
