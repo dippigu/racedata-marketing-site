@@ -85,7 +85,7 @@ preloader = ""
 [[params.social]]
 icon = ""
 link = "instagram.com/racedata"
-title = "Instagram"
+title = "instagram"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
