@@ -3,29 +3,28 @@ title: Pricing
 subtitle: ''
 description: This is meta description
 basic:
-  name: Lite
-  price: "£25"
+  name: Free
+  price: "£0"
   price_per: month
-  info: Best For Quick History Overview
+  info: Free Racecard Access
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Meeting Overview
+  - Daily Racecards
+  - Selected Racedays Lite Ratings
   button:
     enable: true
     label: Get started for free
     link: "#"
 professional:
-  name: Pro Plan
-  price: "£40"
+  name: Lite Plan
+  price: "£25"
   price_per: month
-  info: 'Best For Historical Data '
+  info: Best For Quick Ratings Overviews
   services:
+  - Meeting Overview
   - Daily Racecards
   - Lite Ratings
-  - Pro Ratings
-  - Full Horse Form History
-  - Reporting
+  - Relevant Form History
   button:
     enable: true
     label: Subscribe Now
