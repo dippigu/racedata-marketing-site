@@ -30,14 +30,17 @@ professional:
     label: Subscribe Now
     link: "#"
 business:
-  name: Business Plan
-  price: "$49"
+  name: Pro Plan
+  price: "£40"
   price_per: month
-  info: Best For Large Individuals
+  info: Best For Historical Data Access
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Meeting Overview
+  - Daily Racecards
+  - Lite Ratings
+  - Pro Ratings
+  - Full Form History
+  - Reporting
   button:
     enable: true
     label: Get started for free
