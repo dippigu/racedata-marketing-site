@@ -16,19 +16,19 @@ basic:
     label: Get started for free
     link: "#"
 professional:
-  name: Professional Plan
-  price: "$49"
+  name: Pro Plan
+  price: "£40"
   price_per: month
-  info: Best For Professionals
+  info: 'Best For Historical Data '
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - Daily Racecards
+  - Lite Ratings
+  - Pro Ratings
+  - Full Horse Form History
+  - Reporting
   button:
     enable: true
-    label: Get started for free
+    label: Subscribe Now
     link: "#"
 business:
   name: Business Plan
