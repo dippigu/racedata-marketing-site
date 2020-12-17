@@ -27,9 +27,7 @@ service:
   service_item:
   - title: Simple, yet powerful at a glance ratings in seconds
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
+    - images/lite-ratings.png
     content: The Lite ratings system gives you an at a glance view of the past performance
       of each runner in various categories, helping you to understand its proven capability
       going into the race.
@@ -39,7 +37,7 @@ service:
       link: "#"
   - title: Complex data, distilled into custom ratings
     images:
-    - images/service-3.png
+    - images/pro-ratings.png
     content: The Pro ratings system takes data from a range of categories in past
       races relevant to today's race and calculates a rating so you can compare each
       runner in various areas. The RaceData rating uses the individual ratings to
@@ -49,7 +47,8 @@ service:
       label: Check it out
       link: "#"
   - title: Calculate your own ratings with the data points that matter most
-    images: []
+    images:
+    - images/meetings.png
     button:
       enable: true
       label: Subscribe
