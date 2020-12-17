@@ -49,6 +49,12 @@ service:
       enable: true
       label: Check it out
       link: "#"
+  - title: Calculate your own ratings with the data points that matter most
+    images: []
+    button: ''
+    content: With Pro you can take the existing Pro ratings and mix them using your
+      own weights to build your own custom rating. The perfect blend of RaceData's
+      powerful data calculations and your own valuable experience.
 screenshot:
   enable: true
   title: Experience the best <br> workflow with us
