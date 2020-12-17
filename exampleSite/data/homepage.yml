@@ -14,7 +14,7 @@ feature:
   title: About RaceData
   feature_item:
   - name: Daily Database Updates
-    icon: ti-pulse
+    icon: ti-cloud-down
     content: Automatic daily database updates provide up-to-date race results and
       declarations.
   - name: Free Subscriber Benefits
