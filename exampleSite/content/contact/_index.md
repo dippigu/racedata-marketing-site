@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 subtitle: ''
-description: This is meta description
+description: Contact the RaceData team
 
 ---
 ### We're new around here, so we'd love to hear from you!
