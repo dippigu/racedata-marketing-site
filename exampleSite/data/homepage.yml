@@ -13,9 +13,10 @@ feature:
   enable: true
   title: About RaceData
   feature_item:
-  - name: Clean Code
+  - name: Daily Database Updates
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: The RcaeData database updates automatically each day, providing race
+      results and declarations.
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
