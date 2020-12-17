@@ -2,9 +2,8 @@
 banner:
   title: Access historical form data <br> quickly and easily with RaceData
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: A brand new, clean, and simple to use tool to help you make informed decisions
+    using ratings systems built on historical form data.
   button:
     enable: true
     label: Subscribe Now
