@@ -59,8 +59,7 @@ service:
       powerful data calculations and your own valuable experience.
 screenshot:
   enable: true
-  title: Subscribe to RaceData now and start making <br> accurate data based betting
-    choices.
+  title: Subscribe to RaceData now and start making accurate data based betting choices.
   image: images/screenshot.svg
 call_to_action:
   enable: true
