@@ -8,7 +8,7 @@ description: This is meta description
 
 {{< faq "What's the difference between Lite and Pro?" >}} The Lite ratings system gives you indicators based on the past performance of each horse in various categories, including Going, Weight, Class, and Distance. The Pro ratings system gives you a carefully calculated rating for multiple factors, using data compiled from each horses form history.
 
-The Pro package also gives you access to our custom RaceData rating, and enables access to more detailed form history, report building and exports, and more. {{</ faq >}}
+The Pro package also gives you access to our custom RaceData rating, lets you build your own rating, and enables access to more detailed form history, report building and exports, and more. {{</ faq >}}
 
 {{< faq "How is the database updated daily?" >}} The RaceData team crunch the numbers, update our system database, and package up an update every day. This update file is hosted on our cloud based server and the RaceData application connects to our server to download the updated database file. The RaceData application updates the database in the background so you never get interrupted.  {{</ faq >}}
 
