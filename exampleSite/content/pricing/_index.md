@@ -36,10 +36,8 @@ business:
   price_per: month
   info: Best For Historical Data Access
   services:
-  - Meeting Overview
-  - Daily Racecards
-  - Lite Ratings
-  - Pro Ratings
+  - Meeting Overview & Racecards
+  - Lite & Pro Ratings
   - Full Form History
   - Reporting
   button:
