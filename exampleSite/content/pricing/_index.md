@@ -32,15 +32,15 @@ professional:
     label: Subscribe Now
     link: "#"
 business:
-  name: Pro Plan
-  price: "£40"
+  name: Lite Plan
+  price: "£25"
   price_per: month
-  info: Best For Historical Data Access
+  info: Best For Quick History Based Ratings
   services:
-  - Meeting Overview & Racecards
-  - Lite & Pro Ratings
-  - Full Form History
-  - Reporting
+  - Meeting Overview
+  - Daily Racecards
+  - Lite Ratings
+  - Relevant Form History
   button:
     enable: true
     label: Get started for free
