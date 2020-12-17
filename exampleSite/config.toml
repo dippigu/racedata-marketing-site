@@ -55,7 +55,7 @@ footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
 logo = "images/logo.png"
-logo_width = "226px"
+logo_width = "200px"
 [params.navigation_button]
 enable = true
 label = "Get Started"
