@@ -48,10 +48,11 @@ business:
     link: "#"
 call_to_action:
   enable: true
-  title: Need a larger plan?
+  title: Need a particular rating, or feature?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: We already have a large roadmap of features to add, so maybe we're already
+    working on it. If not, we'd love to chat and have you help shape the future of
+    the tool. Drop us a message and we'll see what we can do.
   button:
     enable: true
     label: Contact Us
