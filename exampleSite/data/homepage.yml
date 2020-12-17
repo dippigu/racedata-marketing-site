@@ -15,8 +15,8 @@ feature:
   feature_item:
   - name: Daily Database Updates
     icon: ti-pulse
-    content: The RaceData application database updates automatically each day, providing
-      race results and declarations.
+    content: Automatic daily database updates provide up-to-date race results and
+      declarations.
   - name: Free Subscriber Benefits
     icon: ti-package
     content: Free subscribers get periodic access to Lite ratings on selected racedays.
