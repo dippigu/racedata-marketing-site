@@ -88,7 +88,7 @@ link = "https://instagram.com/racedata"
 title = "instagram"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://facebook.com/racedata.uk"
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
