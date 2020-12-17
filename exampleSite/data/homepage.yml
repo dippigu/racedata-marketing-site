@@ -15,8 +15,8 @@ feature:
   feature_item:
   - name: Daily Database Updates
     icon: ti-pulse
-    content: The RcaeData database updates automatically each day, providing race
-      results and declarations.
+    content: The RaceData application database updates automatically each day, providing
+      race results and declarations.
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
