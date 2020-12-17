@@ -13,11 +13,8 @@ unsafe = true
 URL = "#"
 name = "About Us"
 [[menu.footer_left]]
-URL = "#"
-name = "Quick Start"
-[[menu.footer_left]]
-URL = "pricing"
-name = "Pricing"
+URL = "contact"
+name = "Contact"
 [[menu.footer_middle]]
 URL = "pricing"
 name = "Pricing"
@@ -36,10 +33,6 @@ name = "Terms & Conditions"
 [[menu.footer_right]]
 URL = "faq"
 name = "FAQ"
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 1
 [[menu.main]]
 URL = "pricing"
 name = "Pricing"
