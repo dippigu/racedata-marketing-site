@@ -21,7 +21,7 @@ feature:
     icon: ti-package
     content: Free subscribers get periodic access to Lite ratings on selected racedays.
   - name: Early Adopter Offers
-    icon: ti-alarm-clock
+    icon: ti-credit-card
     content: Lock in launch pricing for life by subscribing early
   - name: Value For Money
     icon: ti-credit-card
