@@ -17,15 +17,16 @@ basic:
     label: Get started for free
     link: "#"
 professional:
-  name: Lite Plan
-  price: "£25"
+  name: Pro Plan
+  price: "£40"
   price_per: month
-  info: Best For Quick Ratings Overviews
+  info: Best For Historical Data Access
   services:
   - Meeting Overview
   - Daily Racecards
-  - Lite Ratings
-  - Relevant Form History
+  - Lite & Pro Ratings
+  - Full Form History
+  - Custom Reporting
   button:
     enable: true
     label: Subscribe Now
