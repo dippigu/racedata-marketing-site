@@ -1,7 +1,7 @@
 ---
 title: Pricing
 subtitle: ''
-description: This is meta description
+description: RaceData subscription pricing details
 basic:
   name: Free
   price: "£0"
