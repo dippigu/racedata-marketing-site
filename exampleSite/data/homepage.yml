@@ -20,7 +20,7 @@ feature:
   - name: Free Subscriber Benefits
     icon: ti-package
     content: Free subscribers get periodic access to Lite ratings on selected racedays.
-  - name: 24h Service
+  - name: Early Adopter Offers
     icon: ti-alarm-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Value For Money
