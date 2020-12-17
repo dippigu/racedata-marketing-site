@@ -6,7 +6,7 @@ description: This is meta description
 ---
 {{< faq "What do I get for free?" >}} With a free subscription, you get access to the daily meeting details, racecards at each meeting, and restricted relevant form history. As a free subscriber on selected racedays, decided by the RaceData team, you will get full access to the Lite ratings system. {{</ faq >}}
 
-{{< faq "What's the difference between Lite and Pro?" >}} The Lite ratings system gives you indicators based on the past performance of each horse in various categories, including Going, Weight, Class, and Distance. The Pro ratings system gives you a carefully calculated rating for multiple factors, using data compiled fromeach horses form history.
+{{< faq "What's the difference between Lite and Pro?" >}} The Lite ratings system gives you indicators based on the past performance of each horse in various categories, including Going, Weight, Class, and Distance. The Pro ratings system gives you a carefully calculated rating for multiple factors, using data compiled from each horses form history.
 
 The Pro package also enables access to more detailed form history, report building and exports, and more. {{</ faq >}}
 
