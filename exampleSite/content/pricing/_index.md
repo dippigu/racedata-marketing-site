@@ -10,7 +10,8 @@ basic:
   services:
   - Meeting Overview
   - Daily Racecards
-  - Selected Racedays Lite Ratings
+  - Lite Ratings (Selected Racedays)
+  - Relevant Form History
   button:
     enable: true
     label: Get started for free
