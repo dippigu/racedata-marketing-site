@@ -83,8 +83,8 @@ link = "plugins/slick/slick.min.js"
 enable = false
 preloader = ""
 [[params.social]]
-icon = ""
-link = "instagram.com/racedata"
+icon = "ti-instagram"
+link = "https://instagram.com/racedata"
 title = "instagram"
 [[params.social]]
 icon = "ti-facebook"
