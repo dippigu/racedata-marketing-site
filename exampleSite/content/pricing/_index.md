@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Subscription Pricing
 subtitle: ''
 description: RaceData subscription pricing details
 basic:
