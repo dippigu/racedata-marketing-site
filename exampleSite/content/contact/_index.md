@@ -1,15 +1,9 @@
 ---
-title: "Contact Us"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Contact Us
+subtitle: ''
+description: This is meta description
+
 ---
+### We're new around here, so we'd love to hear from you!
 
-
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+If you have any questions about the application, future features, pricing, or just want to get in touch, send us a quick message and we'll get back to you**.**
