@@ -24,7 +24,8 @@ professional:
   services:
   - Meeting Overview
   - Daily Racecards
-  - Lite & Pro Ratings
+  - Lite Ratings
+  - Pro Ratings
   - Full Form History
   - Custom Reporting
   button:
