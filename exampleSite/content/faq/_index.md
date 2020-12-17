@@ -10,7 +10,7 @@ description: This is meta description
 
 The Pro package also enables access to more detailed form history, report building and exports, and more. {{</ faq >}}
 
-{{< faq "How is the database updated daily?" >}} The RaceData team crunch the number, upadte our system database, and package up an update every day. This update file is hosted on our cloud based server and the RaceData application connects to our server to download the updated database file. The RaceData application updates the database in the background so you never get interrupted.  {{</ faq >}}
+{{< faq "How is the database updated daily?" >}} The RaceData team crunch the numbers, upadte our system database, and package up an update every day. This update file is hosted on our cloud based server and the RaceData application connects to our server to download the updated database file. The RaceData application updates the database in the background so you never get interrupted.  {{</ faq >}}
 
 {{< faq "Will I make money using RaceData?" >}} RaceData can't tell you which horse is going to win each race, so it's still up to you to do some work. What it can do is help you find and visualise the relevant data that allows you to make a much more informed decision about what you think will win the race.  {{</ faq >}}
 
