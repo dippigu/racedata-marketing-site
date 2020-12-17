@@ -38,14 +38,13 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: Complex data, distilled into custom ratings
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: The Pro ratings system takes data from a range of categories in past
+      races relevant to today's race and calculates a rating so you can compare each
+      runner in various areas. The RaceData rating uses the individual ratings to
+      build a custom value across all the data categories.
     button:
       enable: true
       label: Check it out
